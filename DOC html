@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<h1> Aboutproduct </h1>
+<nav>
+<ul>
+	<a href= "Aboutproduct.html"> About products</a>
+	<a href= "home.html"> Home</a>
+	<a href= "Location.html"> Location</a>
+	<a href= "video.html"> Video</a>
+</ul>
+</nav>
+<p> These are some product's you can look for when it comes to finding different kinds of EV's that are being made.
+These cars are just a small amout of cars that are avaliable today.</p>
+
+
+<img src = "https://images.cars.com/cldstatic/wp-content/uploads/202202-the-10-most-efficient-evs-scaled.jpg"
+
+<table>
+<tr>
+	<th> Model</th>
+<th> Price</th>
+</tr>
+<tr>
+ <td> Tesla Model 3</td>
+<td> 53,000 </td>
+</tr>
+<tr>
+<td> Ford Mustang EV</td>
+<td> 64,000 </td>
+		</tr>
+</table>
+
+
+
+<link type =" text/css" rel= "stylesheet" href="Video css"/>
+<link type =" text/css" rel= "stylesheet" href="style"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

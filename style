@@ -1,0 +1,13 @@
+style
+
+p{
+	font-size : 30pt;
+}
+p{
+	color : red;
+}
+body {
+	background-image: url(https://media.architecturaldigest.com/photos/61e70345c830527fda2b5c80/master/w_960%2Cc_limit/Hyundai-PnD-1%2520%255BHyundai%255D.jpg)
+}
+Table{ border: 1 px solid black ; }
+Table, td{ border: 1px solid black; }

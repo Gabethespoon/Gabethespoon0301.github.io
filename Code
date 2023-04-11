@@ -1,0 +1,52 @@
+<!DOCTYYPE> html>
+<html>
+<body>
+Div.page_top h1{back-groundcolor:Black}
+<br>
+<h1>The new way of transportation. </h1>
+<div>
+<nav>
+<ul>
+	<a href= "Aboutproduct.html"> About products</a>
+	<a href= "home.html"> Home</a>
+	<a href= "Location.html"> Location</a>
+	<a href= "video.html"> Video</a>
+</ul>
+</nav>
+</div>
+<div>
+<p> The new way the world is moving thought ways of transportation is through<span style="color:Red;"> "Electric Vehical's".</p>
+<br>
+<p>This new way is said to help better the enviernment and other benefactors</p>
+
+</div>
+<div>
+<p>There are many diffrent kinds of EV cars, trucks and more that are avaliable. This webpage is to inform you the many diffrent types of vehicals that are going to be on the roads in the future.</p>
+
+
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rushlane.com%2Ftata-electric-cars-get-tesla-like-autonomous-12434495.html&psig=AOvVaw0uUxn-n9uBlURIdREJN2tD&ust=1677106304042000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNjuuv3Zp_0CFQAAAAAdAAAAABAE" alt ="alternate text">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
